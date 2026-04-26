@@ -4,7 +4,7 @@ fetch("navbar.html")
 .then(data => {
     document.getElementById("navbar-fetch").innerHTML = data;
 
-    const menuBtn = document.getElementById("menuBtn");
+    const menu8Btn = document.getElementById("menuBtn");
 const navLinks = document.getElementById("navLinks");
 
 menuBtn.addEventListener("click", () => {
