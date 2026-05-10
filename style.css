@@ -91,3 +91,10 @@ nav{
  .nav-links li:nth-child(4) {transition-delay: 0.4s;}
  }
  }
+
+ .banner {
+    position: relative;
+    position: absolute;
+    top: 50px;
+    color: aliceblue;
+ }
